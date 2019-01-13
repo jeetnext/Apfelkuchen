@@ -2,12 +2,10 @@
 rm(list=ls())    #empty workspace if wanted ...
 ls()
 library(MASS)
-source("/home/kamal/Desktop/prepare/script/pathscript.R")
+source("pathscript.R")
 ex_path <-setPath(4)
 #problem specification
 dataList<-readDimDoeData(ex_path)
-#added because of Jenkins server. Ignore for windows.
-#dataList$U<-read.csv(paste(ex_path,"U.csv",sep=""),sep=",", dec=",", row.names=1)
 names(dataList)
 head(dataList$uu_design)
 infosFromU<-fetchInfosFromU(dataList$U,debug = 1)

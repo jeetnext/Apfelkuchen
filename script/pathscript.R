@@ -4,8 +4,8 @@
 
 setPath<-function(code){
   #preparation
-  #dimdoe_path<-"../"
-  dimdoe_path<-"/home/kamal/Desktop/prepare/"
+  dimdoe_path<-"../"
+  #dimdoe_path<-"/home/kamal/Desktop/prepare/"
   script_path<-paste(dimdoe_path,"lib/",sep="")
   switch(
     code,

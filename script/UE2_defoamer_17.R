@@ -8,7 +8,7 @@ library(MASS)
 library(AlgDesign)
 
 #preparation
-source("/home/kamal/Desktop/prepare/script/pathscript.R")
+source("pathscript.R")
 ex_path <-setPath(2)
 
 ##########################################################################
