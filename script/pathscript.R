@@ -15,7 +15,7 @@ setPath<-function(code){
     ex_path<-paste(dimdoe_path,"data/UE4_RelayExample/",sep="")
   )
   #transferring functions
-  source(paste(script_path,"dim_doe_functions_TurnQual.R",sep=""))
+  source(paste(script_path,"dim_doe_functions_TurnQual19.R",sep=""))
   source(paste(script_path,"moodle_lib.R",sep=""))
   return(ex_path)
 }
