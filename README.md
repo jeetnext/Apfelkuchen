@@ -10,7 +10,7 @@ To open the jenkins, your system should be connected to university VPN. Do not d
 
 URL of Jenkins: 10.18.2.48:8080
 
-User: Jenkins
+User: build_user
 
-Password: jenkins_2018
+Password: jenkins123
 
