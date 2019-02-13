@@ -1,0 +1,5 @@
+;Name;Abbr;userunit;transform;offset;gradient;m;k;s;Kel;mol;amp;cand;taste
+1;Flour;fl;g;log;0;0,001;0;1;0;0;0;0;0;0
+2;Shortening;sh;g;log;0;0,001;0;1;0;0;0;0;0;0
+3;EggPowder;egg;g;log;0;0,001;0;1;0;0;0;0;0;0
+4;taste;taste;SI;log;0;1;0;0;0;0;0;0;0;1

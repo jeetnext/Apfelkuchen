@@ -1,0 +1,4 @@
+;Name;Abbr;Role;userunit;transform;low;high;offset;gradient;m;k;s;Kel;mol;amp;cand;fl;sh;egg
+1;Flour;fl;contr;g;log;200;400;0;0,001;0;1;0;0;0;0;0;1;0;0
+2;Shortening;sh;contr;g;log;50;100;0;0,001;0;1;0;0;0;0;0;0;1;0
+3;EggPowder;egg;contr;g;log;50;100;0;0,001;0;1;0;0;0;0;0;0;0;1
