@@ -26,6 +26,7 @@ ex_path <-setPath(6)
 ##########################################################################
 #fetch dataList
 dataList<-readDimDoeData(ex_path)
+names(dataList)
 
 #fetch u_infos
 infosFromU<-fetchInfosFromU(dataList$U)
